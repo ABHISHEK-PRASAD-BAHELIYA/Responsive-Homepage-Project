@@ -12,17 +12,17 @@ export function renderFooter() {
           <div class="contact-info">
             <h2>Contact Me</h2>
             <p>Please get in touch if you think our work<br>could be mutually beneficial!</p>
-            <p>Green Dolphin St. Prison<br>Port St. Lucie, Florida</p>
+            <p>pindra, satna<br>Madhaya pradesh, India</p>
             <p><i class="fa fa-phone"></i>&nbsp; 555-555-5555</p>
-            <p><i class="fa fa-envelope"></i>&nbsp; yareyaredawa@gmail.com</p>
+            <p><i class="fa fa-envelope"></i>&nbsp; singhabhishek74401@gmail.com</p>
             <div class="social-icons footer-icons">
-              <a href="" class="fa fa-github"></a>
-              <a href="" class="fa fa-linkedin"></a>
-              <a href="" class="fa fa-twitter"></a>
+              <a href="https://github.com/ABHISHEK-PRASAD-BAHELIYA" class="fa fa-github"></a>
+              <a href="https://www.linkedin.com/in/abhishek-prasad-baheliya" class="fa fa-linkedin"></a>
+              <a href="https://x.com/74401Abhishek" class="fa fa-twitter"></a>
             </div>
           </div>
           <div class="img-wrapper">
-            <img class="box-shadow" src="imgs/jolyne-footer.jpg" alt="">
+            <img class="box-shadow" src="../dist/assets/coder.jpg" alt="">
           </div>
         </div>
       </footer>
