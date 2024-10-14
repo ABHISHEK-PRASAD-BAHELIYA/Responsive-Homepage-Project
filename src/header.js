@@ -19,7 +19,7 @@ export function renderHeader() {
         </div>
         <div class="wrapper">
           <div class="img-wrapper">
-            <img src="../dist/assets/profiile_image.jpeg" alt="">
+            <img src="./assets/profiile_image.jpeg" alt="">
             <h1>ABHISHEK</h1>
           </div>
           <div class="about-me">

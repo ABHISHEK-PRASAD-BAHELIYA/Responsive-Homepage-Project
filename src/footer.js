@@ -22,7 +22,7 @@ export function renderFooter() {
             </div>
           </div>
           <div class="img-wrapper">
-            <img class="box-shadow" src="../dist/assets/coder.jpg" alt="">
+            <img class="box-shadow" src="./assets/coder.jpg" alt="">
           </div>
         </div>
       </footer>
